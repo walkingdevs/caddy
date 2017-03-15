@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cat /caddy/caddyfile
+
+caddy --conf /caddy/caddyfile
